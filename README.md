@@ -7,3 +7,4 @@ if you interested about this you can browse the live link to see what will be th
 
 # Live link
 live link : https://kmfoysal06.github.io/vue-mastery-socks/
+or :        https://master--visionary-chaja-ac8d34.netlify.app/
